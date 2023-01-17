@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edson Garcia 👋
 
-#### Estudante de Engenharia de Computação e aspirante a desenvolvedor Back-end
+#### Estudante de Tecnologia da Informação e aspirante a desenvolvedor Back-end
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsongarciadesousa/)
 
